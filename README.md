@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uneecom
 - 👀 I’m interested in Design, Art, Photography, Travel and fine food
-- 🌱 I’m currently learning UX related
+- 🌱 I’m currently learning programs related to UI/UX
 - 📫 reach me @ neecom@hotmail.com
 
 <!---
